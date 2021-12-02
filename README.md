@@ -1,2 +1,3 @@
 # ass5
-try
+just try to create a git hub README file for my group
+
